@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        519,
+        128
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/feature_vecs.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/feature_class.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/dy567/ToF_TSNE/blob/31a6c056c48cf4dd863ec1c36a929b2c4b8a6bc8/sprite.jpg",
+        "singleImageDim": [
+          25,
+          25
+        ]
+      }
+    }
+  ]
+}
