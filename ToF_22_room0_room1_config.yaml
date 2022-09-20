@@ -6,10 +6,10 @@
         519,
         128
       ],
-      "tensorPath": "https://gist.githubusercontent.com/dy567/b8144939859ecdb891acc81f2b30b799/raw/c3ed4a5ccda9bb6ffebfae812df4ee85f8de9716/feature_vecs.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/dy567/b8144939859ecdb891acc81f2b30b799/raw/c3ed4a5ccda9bb6ffebfae812df4ee85f8de9716/feature_class.tsv",
+      "tensorPath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/feature_vecs.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/feature_class.tsv",
       "sprite": {
-        "imagePath": "https://gist.githubusercontent.com/dy567/43508e73064b6e95152b71fb5511d995/raw/59360d774fdfa53afe6e3187eeccc0ee1fb40464/sprite.png",
+        "imagePath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/sprite.jpg",
         "singleImageDim": [
           25,
           25
