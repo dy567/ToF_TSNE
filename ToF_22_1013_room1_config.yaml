@@ -3,13 +3,13 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        519,
+        220,
         128
       ],
-      "tensorPath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/feature_vecs.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/feature_class.tsv",
+      "tensorPath": "https://gist.githubusercontent.com/dy567/fd868caf2b78cc8b21779f08208488b0/raw/acbb97e0c26a46c16124741bf6ec5bba14282f25/1013_room1_feature_vecs.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/dy567/fd868caf2b78cc8b21779f08208488b0/raw/acbb97e0c26a46c16124741bf6ec5bba14282f25/1013_room1_feature_class.tsv",
       "sprite": {
-        "imagePath": "https://gist.githubusercontent.com/dy567/4059b6949eb51d2e226a15f030edcf65/raw/352b09aecf2be8f8e83172cd29f9295aed72fe42/sprite.jpg",
+        "imagePath": "https://raw.githubusercontent.com/dy567/ToF_TSNE/master/sprite_1013_room1.jpg",
         "singleImageDim": [
           25,
           25
