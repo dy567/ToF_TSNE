@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/dy567/ToF_TSNE/master/sprite_room0_room1.jpg",
         "singleImageDim": [
-          25,
-          25
+          100,
+          100
         ]
       }
     }
