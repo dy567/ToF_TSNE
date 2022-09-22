@@ -9,7 +9,7 @@
       "tensorPath": "https://gist.githubusercontent.com/dy567/72172cb903eeb18bf50e638c808b5fbe/raw/6e901dcbc99ce93d79a5eefb12293a6b3de9d1c3/room0_room1_feature_vecs.tsv",
       "metadataPath": "https://gist.githubusercontent.com/dy567/72172cb903eeb18bf50e638c808b5fbe/raw/6e901dcbc99ce93d79a5eefb12293a6b3de9d1c3/room0_room1_feature_class.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/dy567/ToF_TSNE/master/sprite.jpg",
+        "imagePath": "https://raw.githubusercontent.com/dy567/ToF_TSNE/master/sprite_room0_room1.jpg",
         "singleImageDim": [
           25,
           25
