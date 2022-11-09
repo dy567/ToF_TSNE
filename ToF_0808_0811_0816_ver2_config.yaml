@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/dy567/ToF_TSNE/master/sprite_0808_0811_0816_50x50.jpg",
         "singleImageDim": [
-          100,
-          100
+          50,
+          50
         ]
       }
     }
